@@ -1,0 +1,13 @@
+imported_paths
+org.apache.commons.logging
+org.apache.commons.collections
+org.apache.commons.lang3
+com.google.gson
+org.hibernate
+com.google.common
+com.google.gwt
+org.joda.time
+org.junit
+org.springframework
+com.thoughtworks.xstream
+android
