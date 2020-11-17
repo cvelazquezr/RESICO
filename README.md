@@ -13,4 +13,4 @@ If you want to get this data you can contact me.
 
 Once the models are trained, RESICO should be able to predict the most like type in incomplete code snippets such as the following figure shows:
 
-![alt text](https://github.com/cvelazquezr/RESICO/blob/main/input-output?raw=true)
+<img width="600" height="400" src="./input-output.png">
